@@ -1,0 +1,13 @@
+/* Esta parte es para que validen el css */
+h1{
+    color: rgba(153, 205, 50, 0.658); 
+}
+p{
+    color: rg                   ba(128, 128, 128, 0.801);
+}
+a{
+    text-decoration: none;
+}
+body{
+    text-align: center;
+}                                                                        
